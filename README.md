@@ -5,3 +5,4 @@ WhatsLink is a React-based project that simplifies the process of starting a con
 
 
 Commit #1 on 2025-04-26
+Commit #2 on 2025-04-27
